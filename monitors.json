@@ -1,0 +1,9 @@
+[
+  {
+    "id": "wayfield",
+    "url": "https://wayfield.dev",
+    "interval": 60,
+    "alert": "email",
+    "email": "you@wayfieldlabs.com"
+  }
+]
