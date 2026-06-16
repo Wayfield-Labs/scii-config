@@ -1,4 +1,5 @@
 [
+  { "id": "labs", "name": "Labs", "url": "https://wayfield.dev" },
   { "id": "doni", "name": "Doni", "url": "https://doni.wayfield.dev" },
   { "id": "helpo", "name": "Helpo", "url": "https://helpo.wayfield.dev" },
   { "id": "havi", "name": "Havi", "url": "https://havi.wayfield.dev" },
