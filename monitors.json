@@ -1,9 +1,9 @@
 [
-  {
-    "id": "wayfield",
-    "url": "https://wayfield.dev",
-    "interval": 60,
-    "alert": "email",
-    "email": "you@wayfieldlabs.com"
-  }
+  { "id": "doni", "name": "Doni", "url": "https://doni.wayfield.dev" },
+  { "id": "helpo", "name": "Helpo", "url": "https://helpo.wayfield.dev" },
+  { "id": "havi", "name": "Havi", "url": "https://havi.wayfield.dev" },
+  { "id": "radiko", "name": "Radiko", "url": "https://radiko.wayfield.dev" },
+  { "id": "kune", "name": "Kune", "url": "https://kune.wayfield.dev" },
+  { "id": "traduki", "name": "Traduki", "url": "https://traduki.wayfield.dev" },
+  { "id": "trovi", "name": "Trovi", "url": "https://trovi.wayfield.dev" }
 ]
