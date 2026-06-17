@@ -2,7 +2,7 @@
   { "id": "labs", "name": "Labs", "url": "https://wayfield.dev" },
   { "id": "github", "name": "GitHub", "url": "https://github.com" },
   { "id": "duckai", "name": "Duck.ai", "url": "https://duck.ai/" },
-  { "id": "havi", "name": "Havi", "url": "https://havi.wayfield.dev" },
+  { "id": "down", "name": "Down", "url": "http://downfor.example" },
   { "id": "radiko", "name": "Radiko", "url": "https://radiko.wayfield.dev" },
   { "id": "kune", "name": "Kune", "url": "https://kune.wayfield.dev" },
   { "id": "traduki", "name": "Traduki", "url": "https://traduki.wayfield.dev" },
