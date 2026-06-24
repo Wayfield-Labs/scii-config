@@ -1,14 +1,18 @@
 [
   {
-    "name": "Wayfield API",
-    "url": "https://api.wayfield.dev/health"
-  },
-  {
-    "name": "Dashboard",
-    "url": "https://app.wayfield.dev"
-  },
-  {
-    "name": "Main Site",
+    "name": "Wayfield Labs",
     "url": "https://wayfield.dev"
+  },
+  {
+    "name": "Plinthra",
+    "url": "https://plinthra.com"
+  },
+  {
+    "name": "Quaerra",
+    "url": "https://quaerra.dev"
+  },
+  {
+    "name": "Kune Demo",
+    "url": "https://ai.wayfield.dev"
   }
 ]
