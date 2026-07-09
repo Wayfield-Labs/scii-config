@@ -1,17 +1,21 @@
 [
   {
+    "id": "wayfield-labs",
     "name": "Wayfield Labs",
     "url": "https://wayfield.dev"
   },
   {
+    "id": "plinthra",
     "name": "Plinthra",
     "url": "https://plinthra.com"
   },
   {
+    "id": "quaerra",
     "name": "Quaerra",
     "url": "https://quaerra.dev"
   },
   {
+    "id": "kune-demo",
     "name": "Kune Demo",
     "url": "https://ai.wayfield.dev"
   }
